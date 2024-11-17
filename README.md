@@ -1,1 +1,3 @@
 # ZouTracker
+
+Welcome to ZouTracker!
