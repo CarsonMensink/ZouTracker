@@ -1,0 +1,848 @@
+[
+    {
+        "Title": "Cheese Pizza",
+        "Serving Info": "1 Servings per containerServing Size1/6 PIZZA (218g)",
+        "Calories": "530",
+        "Nutrients": [
+            {
+                "Total Fat": "22g"
+            },
+            {
+                "Saturated Fat": "10g"
+            },
+            {
+                "TransFat": "NA"
+            },
+            {
+                "Cholesterol": "35mg"
+            },
+            {
+                "Sodium": "1330mg"
+            },
+            {
+                "Total Carbohydrate": "62g"
+            },
+            {
+                "Dietary Fiber": "2g"
+            },
+            {
+                "Total Sugars": "6g"
+            },
+            {
+                "Added Sugars": "NA"
+            },
+            {
+                "Protein": "25g"
+            },
+            {
+                "Vit. D": "1.6mcg"
+            },
+            {
+                "Calcium": "417mg"
+            },
+            {
+                "Iron": "3.78mg"
+            }
+        ],
+        "Ingredients": "16  PIZZA DOUGH SHEET (INGREDIENTS FOR U.S. MARKET: ENRICHED UNBLEACHED WHEAT FLOUR WHEAT FLOUR, NIACIN, IRON AS FERROUS SULFATE, THIAMINE MONONITRATE, ENZYME, RIBOFLAVIN, FOLIC ACID, WATER, YEAST, CONTAINS LESS THAN 2 OF THE FOLLOWING: SUGAR, SOYBEAN OIL, HYDROGENATED SOYBEAN OIL, LEAVENING BAKING SODA, SODIUM ALUMINUM PHOSPHATE, SALT, BUTTERMILK, WHEAT GLUTEN, LOW-MOISTURE PART-SKIM MOZZARELLA CHEESE PASTEURIZED PART SKIM MILK, CHEESE CULTURE, SALT, CALCIUM CHLORIDE, ENZYME, CHEDDAR CHEESE MILK, CHEESE CULTURES, SALT, ENZYMES, WHEY POWDER A MILK DERIVATIVE, GUAR GUM, XANTHAN GUM, SOYBEAN OIL, GARLIC POWDER, DATEM, MALTED BARLEY FLOUR, DEXTROSE, ENZYME, ASCORBIC ACID, SODIUM PHOSPHATE, LACTIC ACID.), SHREDDED MOZZARELLA PROVOLONE CHEESE (LOW MOISTURE MOZZARELLA (PASTEURIZED MILK, CHEESE CULTURES, SALT, ENZYMES), UNSMOKED PROVOLONE (PASTEURIZED MILK, CHEESE CULTURES, SALT, ENZYMES), POWDERED CELLULOSE TO PREVENT CAKING, NATAMYCIN TO PROTECT FLAVOR OR WHOLE MILK MOZZARELLA CHEESE (PASTEURIZED MILK, CULTURES, SALT, ENZYMES), PROVOLONE CHEESE (PASTEURIZED MILK, CULTURES, SALT, ENZYMES), ANTICAKING AGENT AND NATAMYCIN (PRESERVATIVE).), WHOLE PLUM CANNED TOMATO (Ingredients VINE-RIPENED FRESH PLUM TOMATOES, TOMATO JUICE, FRESH BASIL LEAF, SALT AND, NATURALLY DERIVED CITRIC ACID.), LIQUID MARGARINE (LIQUID AND HYDROGENATED SOYBEAN OIL, WATER, SALT, CONTAINS LESS THAN 2% OF VEGETABLE MONO & DIGLYCERIDES, SOY LECITHIN, SODIUM BENZOATE (A PRESERVATIVE), CITRIC ACID, NATURAL & ARTIFICIAL FLAVORS, CALCIUM DISODIUM EDTA ADDED TO PROTECT FLAVOR, BETA CAROTENE (COLOR), VITAMIN A PALMITATE ADDED. CONTAINS: SOY.), FRESH GARLIC, FRESH BASIL, KOSHER SALT (SALT, SODIUM SILICOALUMINATE - THIS SALT DOES NOT SUPPLY IODIDE, A NECESSARY NUTRIENT.), OLIVE OIL (75% canola, 25% olive oil), PIZZA STROBOLI SEASONING (Sea Salt, garlic, onion, chili flakes, parsley, tomato flakes and fennel seeds.), SUGAR, GROUND OREGANO, DRIED LEAF OREGANO"
+    },
+    {
+        "Title": "Pepperoni Pizza",
+        "Serving Info": "1 Servings per containerServing Size1/6 PIZZA (235g)",
+        "Calories": "610",
+        "Nutrients": [
+            {
+                "Total Fat": "29g"
+            },
+            {
+                "Saturated Fat": "13g"
+            },
+            {
+                "TransFat": "NA"
+            },
+            {
+                "Cholesterol": "55mg"
+            },
+            {
+                "Sodium": "1620mg"
+            },
+            {
+                "Total Carbohydrate": "62g"
+            },
+            {
+                "Dietary Fiber": "2g"
+            },
+            {
+                "Total Sugars": "6g"
+            },
+            {
+                "Added Sugars": "NA"
+            },
+            {
+                "Protein": "28g"
+            },
+            {
+                "Vit. D": "1.6mcg"
+            },
+            {
+                "Calcium": "417mg"
+            },
+            {
+                "Iron": "4.01mg"
+            }
+        ],
+        "Ingredients": "16  PIZZA DOUGH SHEET (INGREDIENTS FOR U.S. MARKET: ENRICHED UNBLEACHED WHEAT FLOUR WHEAT FLOUR, NIACIN, IRON AS FERROUS SULFATE, THIAMINE MONONITRATE, ENZYME, RIBOFLAVIN, FOLIC ACID, WATER, YEAST, CONTAINS LESS THAN 2 OF THE FOLLOWING: SUGAR, SOYBEAN OIL, HYDROGENATED SOYBEAN OIL, LEAVENING BAKING SODA, SODIUM ALUMINUM PHOSPHATE, SALT, BUTTERMILK, WHEAT GLUTEN, LOW-MOISTURE PART-SKIM MOZZARELLA CHEESE PASTEURIZED PART SKIM MILK, CHEESE CULTURE, SALT, CALCIUM CHLORIDE, ENZYME, CHEDDAR CHEESE MILK, CHEESE CULTURES, SALT, ENZYMES, WHEY POWDER A MILK DERIVATIVE, GUAR GUM, XANTHAN GUM, SOYBEAN OIL, GARLIC POWDER, DATEM, MALTED BARLEY FLOUR, DEXTROSE, ENZYME, ASCORBIC ACID, SODIUM PHOSPHATE, LACTIC ACID.), SHREDDED MOZZARELLA PROVOLONE CHEESE (LOW MOISTURE MOZZARELLA (PASTEURIZED MILK, CHEESE CULTURES, SALT, ENZYMES), UNSMOKED PROVOLONE (PASTEURIZED MILK, CHEESE CULTURES, SALT, ENZYMES), POWDERED CELLULOSE TO PREVENT CAKING, NATAMYCIN TO PROTECT FLAVOR OR WHOLE MILK MOZZARELLA CHEESE (PASTEURIZED MILK, CULTURES, SALT, ENZYMES), PROVOLONE CHEESE (PASTEURIZED MILK, CULTURES, SALT, ENZYMES), ANTICAKING AGENT AND NATAMYCIN (PRESERVATIVE).), WHOLE PLUM CANNED TOMATO (Ingredients VINE-RIPENED FRESH PLUM TOMATOES, TOMATO JUICE, FRESH BASIL LEAF, SALT AND, NATURALLY DERIVED CITRIC ACID.), SLICED BEEF PORK PEPPERONI (BHA, BHT WITH CITRIC ACID ADDED TO HELP PROTECT FLAVOR.INGREDIENTS: PORK AND BEEF, SALT, CONTAINS 2% OR LESS OF WATER, DEXTROSE, SPICES, LACTIC ACID STARTER CULTURE, OLEORESIN OF PAPRIKA, GARLIC POWDER, SODIUM NITRITE, BHA, BHT, CITRIC ACID.), LIQUID MARGARINE (LIQUID AND HYDROGENATED SOYBEAN OIL, WATER, SALT, CONTAINS LESS THAN 2% OF VEGETABLE MONO & DIGLYCERIDES, SOY LECITHIN, SODIUM BENZOATE (A PRESERVATIVE), CITRIC ACID, NATURAL & ARTIFICIAL FLAVORS, CALCIUM DISODIUM EDTA ADDED TO PROTECT FLAVOR, BETA CAROTENE (COLOR), VITAMIN A PALMITATE ADDED. CONTAINS: SOY.), FRESH GARLIC, FRESH BASIL, KOSHER SALT (SALT, SODIUM SILICOALUMINATE - THIS SALT DOES NOT SUPPLY IODIDE, A NECESSARY NUTRIENT.), OLIVE OIL (75% canola, 25% olive oil), PIZZA STROBOLI SEASONING (Sea Salt, garlic, onion, chili flakes, parsley, tomato flakes and fennel seeds.), SUGAR, GROUND OREGANO, DRIED LEAF OREGANO"
+    },
+    {
+        "Title": "Supreme Pizza",
+        "Serving Info": "1 Servings per containerServing Size1/6 PIZZA (278g)",
+        "Calories": "660",
+        "Nutrients": [
+            {
+                "Total Fat": "34g"
+            },
+            {
+                "Saturated Fat": "14g"
+            },
+            {
+                "TransFat": "NA"
+            },
+            {
+                "Cholesterol": "65mg"
+            },
+            {
+                "Sodium": "1760mg"
+            },
+            {
+                "Total Carbohydrate": "64g"
+            },
+            {
+                "Dietary Fiber": "3g"
+            },
+            {
+                "Total Sugars": "7g"
+            },
+            {
+                "Added Sugars": "NA"
+            },
+            {
+                "Protein": "30g"
+            },
+            {
+                "Vit. D": "1.6mcg"
+            },
+            {
+                "Calcium": "434mg"
+            },
+            {
+                "Iron": "4.28mg"
+            }
+        ],
+        "Ingredients": "16  PIZZA DOUGH SHEET (INGREDIENTS FOR U.S. MARKET: ENRICHED UNBLEACHED WHEAT FLOUR WHEAT FLOUR, NIACIN, IRON AS FERROUS SULFATE, THIAMINE MONONITRATE, ENZYME, RIBOFLAVIN, FOLIC ACID, WATER, YEAST, CONTAINS LESS THAN 2 OF THE FOLLOWING: SUGAR, SOYBEAN OIL, HYDROGENATED SOYBEAN OIL, LEAVENING BAKING SODA, SODIUM ALUMINUM PHOSPHATE, SALT, BUTTERMILK, WHEAT GLUTEN, LOW-MOISTURE PART-SKIM MOZZARELLA CHEESE PASTEURIZED PART SKIM MILK, CHEESE CULTURE, SALT, CALCIUM CHLORIDE, ENZYME, CHEDDAR CHEESE MILK, CHEESE CULTURES, SALT, ENZYMES, WHEY POWDER A MILK DERIVATIVE, GUAR GUM, XANTHAN GUM, SOYBEAN OIL, GARLIC POWDER, DATEM, MALTED BARLEY FLOUR, DEXTROSE, ENZYME, ASCORBIC ACID, SODIUM PHOSPHATE, LACTIC ACID.), SHREDDED MOZZARELLA PROVOLONE CHEESE (LOW MOISTURE MOZZARELLA (PASTEURIZED MILK, CHEESE CULTURES, SALT, ENZYMES), UNSMOKED PROVOLONE (PASTEURIZED MILK, CHEESE CULTURES, SALT, ENZYMES), POWDERED CELLULOSE TO PREVENT CAKING, NATAMYCIN TO PROTECT FLAVOR OR WHOLE MILK MOZZARELLA CHEESE (PASTEURIZED MILK, CULTURES, SALT, ENZYMES), PROVOLONE CHEESE (PASTEURIZED MILK, CULTURES, SALT, ENZYMES), ANTICAKING AGENT AND NATAMYCIN (PRESERVATIVE).), WHOLE PLUM CANNED TOMATO (Ingredients VINE-RIPENED FRESH PLUM TOMATOES, TOMATO JUICE, FRESH BASIL LEAF, SALT AND, NATURALLY DERIVED CITRIC ACID.), SLICED BEEF PORK PEPPERONI (BHA, BHT WITH CITRIC ACID ADDED TO HELP PROTECT FLAVOR.INGREDIENTS: PORK AND BEEF, SALT, CONTAINS 2% OR LESS OF WATER, DEXTROSE, SPICES, LACTIC ACID STARTER CULTURE, OLEORESIN OF PAPRIKA, GARLIC POWDER, SODIUM NITRITE, BHA, BHT, CITRIC ACID.), SLICED CRIMINI MUSHROOMS, SAUSAGE PIZZA TOPPING (PORK, WATER, SPICES, SALT, DEXTROSE, SODIUM PHOSPHATE, PAPRIKA, FLAVORING), GREEN BELL PEPPERS, UNPEELED JUMBO YELLOW ONIONS, LIQUID MARGARINE (LIQUID AND HYDROGENATED SOYBEAN OIL, WATER, SALT, CONTAINS LESS THAN 2% OF VEGETABLE MONO & DIGLYCERIDES, SOY LECITHIN, SODIUM BENZOATE (A PRESERVATIVE), CITRIC ACID, NATURAL & ARTIFICIAL FLAVORS, CALCIUM DISODIUM EDTA ADDED TO PROTECT FLAVOR, BETA CAROTENE (COLOR), VITAMIN A PALMITATE ADDED. CONTAINS: SOY.), FRESH GARLIC, FRESH BASIL, KOSHER SALT (SALT, SODIUM SILICOALUMINATE - THIS SALT DOES NOT SUPPLY IODIDE, A NECESSARY NUTRIENT.), OLIVE OIL (75% canola, 25% olive oil), PIZZA STROBOLI SEASONING (Sea Salt, garlic, onion, chili flakes, parsley, tomato flakes and fennel seeds.), SUGAR, GROUND OREGANO, DRIED LEAF OREGANO"
+    },
+    {
+        "Title": "BFC BOWL / BBQ PORK / SHELL & CHEESE",
+        "Serving Info": "1 Servings per containerServing SizePORTION (510g)",
+        "Calories": "1670",
+        "Nutrients": [
+            {
+                "Total Fat": "67g"
+            },
+            {
+                "Saturated Fat": "32g"
+            },
+            {
+                "TransFat": "NA"
+            },
+            {
+                "Cholesterol": "195mg"
+            },
+            {
+                "Sodium": "2340mg"
+            },
+            {
+                "Total Carbohydrate": "209g"
+            },
+            {
+                "Dietary Fiber": "9g"
+            },
+            {
+                "Total Sugars": "25g"
+            },
+            {
+                "Added Sugars": "2g"
+            },
+            {
+                "Protein": "67g"
+            },
+            {
+                "Vit. D": "0.7mcg"
+            },
+            {
+                "Calcium": "46mg"
+            },
+            {
+                "Iron": "9.31mg"
+            }
+        ],
+        "Ingredients": "SMALL SHELL MACARONI (SEMOLINA WHEAT, DURUM WHEAT FLOUR, VITAMIN B3 NIACIN, IRON FERROUS SULFATE, VITAMIN B1 THIAMINE MONONITRATE, VITAMIN B2, FOLIC ACID.), PREMADE MORT'S CHEESE SAUCE (MILK (PASTEURIZED REDUCED FAT MILK, VITAMIN A PALMITATE, VITAMIN D3), CHEESE FOOD, PASTEURIZED PROCESS AMERICAN, VITAMIN D FORTIFIED, CHEDDAR (MILK, CULTURES, SALT, ENZYMES, ANNATTO (COLOR)), HEAVY CREAM (HEAVY CREAM, SKIM MILK, CARRAGEENAN), BUTTER (CREAM, SALT), CORNSTARCH, KOSHER SALT, CHIPOTLESIN ADOBO (CHIPOTLE PEPPERS, VINEGAR, TOMATOES, ONIONS, SUGAR, IODIZED SALT, PAPRIKA, SOYBEAN OIL ANDSPICES), GRANULATED GARLIC, BLACK PEPPER, PAPRIKA.), WATER, TRIMMED PORK BUTT, 4  WHITE BUN (INGREDIENTS: UNBLEACHED ENRICHED FLOUR (WHEAT FLOUR, MALTED BARLEY FLOUR, NIACIN, REDUCED IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), WATER, HIGH FRUCTOSE CORN SYRUP, CONTAINS 2% OR LESS OF EACH OF THE FOLLOWING: YEAST, SOYBEAN OIL, SALT, WHEAT GLUTEN, DOUGH CONDITIONERS (CONTAINS ONE OR MORE OF THE FOLLOWING: SODIUM STEAROYL LACTYLATE, CALCIUM STEAROYL LACTYLATE, MONOGLYCERIDES, MONO- AND DIGLYCERIDES, DISTILLED MONOGLYCERIDES, CALCIUM PEROXIDE, CALCIUM IODATE, DATEM, ETHOXYLATED MONO- AND DIGLYCERIDES, ENZYMES, ASCORBIC ACID), SESAME FLOUR, CALCIUM PROPIONATE (TO RETARD SPOILAGE)CONTAINS: WHEAT, SESAME), DOMUNOS BBQ SAUCE (Ketchup (tomato puree, sugar, vinegar, seasonings), brown sugar, cider vinegar, brown mustard, orange juice, liquid smoke, ground mustard, garlic powder, paprika, chili powder, red cayenne pepper, cinnamon), DILL PICKLE SLICES (CUCUMBERS, WATER, VINEGAR, SALT, CONTAINS LESS THAN 2% OF CALCIUM CHLORIDE, POTASSIUM SORBATE (A PRESERVATIVE), NATURAL FLAVORS, POLYSORBATE 80, YELLOW 5.), BFC DO MUNDOS SPICE RUB (Brown sugar, salt, granulated garlic, chili powder, spices.  Contains no MSG.), OLIVE OIL (75% canola, 25% olive oil), KOSHER SALT (SALT, SODIUM SILICOALUMINATE - THIS SALT DOES NOT SUPPLY IODIDE, A NECESSARY NUTRIENT.)"
+    },
+    {
+        "Title": "PULLED PORK",
+        "Serving Info": "1 Servings per containerServing Size4 OZ PORTION (113g)",
+        "Calories": "300",
+        "Nutrients": [
+            {
+                "Total Fat": "19g"
+            },
+            {
+                "Saturated Fat": "7g"
+            },
+            {
+                "TransFat": "0g"
+            },
+            {
+                "Cholesterol": "105mg"
+            },
+            {
+                "Sodium": "400mg"
+            },
+            {
+                "Total Carbohydrate": "NA"
+            },
+            {
+                "Dietary Fiber": "0g"
+            },
+            {
+                "Total Sugars": "NA"
+            },
+            {
+                "Added Sugars": "NA"
+            },
+            {
+                "Protein": "27g"
+            },
+            {
+                "Vit. D": "1.3mcg"
+            },
+            {
+                "Calcium": "28mg"
+            },
+            {
+                "Iron": "1.86mg"
+            }
+        ],
+        "Ingredients": "TRIMMED PORK BUTT, BFC DO MUNDOS SPICE RUB (Brown sugar, salt, granulated garlic, chili powder, spices.  Contains no MSG.)"
+    },
+    {
+        "Title": "Burnt End Beef Brisket",
+        "Serving Info": "1 Servings per containerServing Size4 OZ PORTION (113g)",
+        "Calories": "330",
+        "Nutrients": [
+            {
+                "Total Fat": "23g"
+            },
+            {
+                "Saturated Fat": "9g"
+            },
+            {
+                "TransFat": "1.5g"
+            },
+            {
+                "Cholesterol": "80mg"
+            },
+            {
+                "Sodium": "850mg"
+            },
+            {
+                "Total Carbohydrate": "8g"
+            },
+            {
+                "Dietary Fiber": "NA"
+            },
+            {
+                "Total Sugars": "7g"
+            },
+            {
+                "Added Sugars": "NA"
+            },
+            {
+                "Protein": "24g"
+            },
+            {
+                "Vit. D": "NA"
+            },
+            {
+                "Calcium": "1mg"
+            },
+            {
+                "Iron": "1.23mg"
+            }
+        ],
+        "Ingredients": "BEEF BRISKET BURNT END (FULLY COOKED INGREDIENTS: BEEF BRISKET, WATER, SALT, SODIUM PHOSPHATES, BLACK PEPPER, PAPRIKA, RED PEPPER, GARLIC BLEND (SALT, CORN STARCH, GARLIC POWDER).), DOMUNOS BBQ SAUCE (Ketchup (tomato puree, sugar, vinegar, seasonings), brown sugar, cider vinegar, brown mustard, orange juice, liquid smoke, ground mustard, garlic powder, paprika, chili powder, red cayenne pepper, cinnamon), CARBONATED WATER, UNSALTED BUTTER (PASTEURIZED CREAM), BFC DO MUNDOS SPICE RUB (Brown sugar, salt, granulated garlic, chili powder, spices.  Contains no MSG.), HONEY (HONEY), DR PEPPER POST MIX (High Fructose Corn Syrup, Water, Caramel Color, Phosphoric Acid, Caffeine, Sodium Benzoate (Preservative), Natural and Artificial Flavors, Dimethylpolysiloxane), GROUND BLACK PEPPER"
+    },
+    {
+        "Title": "Meatlover's Pizza",
+        "Serving Info": "1 Servings per containerServing Size1/6 PIZZA (262g)",
+        "Calories": "670",
+        "Nutrients": [
+            {
+                "Total Fat": "34g"
+            },
+            {
+                "Saturated Fat": "14g"
+            },
+            {
+                "TransFat": "NA"
+            },
+            {
+                "Cholesterol": "75mg"
+            },
+            {
+                "Sodium": "1870mg"
+            },
+            {
+                "Total Carbohydrate": "63g"
+            },
+            {
+                "Dietary Fiber": "2g"
+            },
+            {
+                "Total Sugars": "6g"
+            },
+            {
+                "Added Sugars": "NA"
+            },
+            {
+                "Protein": "33g"
+            },
+            {
+                "Vit. D": "1.6mcg"
+            },
+            {
+                "Calcium": "434mg"
+            },
+            {
+                "Iron": "4.26mg"
+            }
+        ],
+        "Ingredients": "16  PIZZA DOUGH SHEET (INGREDIENTS FOR U.S. MARKET: ENRICHED UNBLEACHED WHEAT FLOUR WHEAT FLOUR, NIACIN, IRON AS FERROUS SULFATE, THIAMINE MONONITRATE, ENZYME, RIBOFLAVIN, FOLIC ACID, WATER, YEAST, CONTAINS LESS THAN 2 OF THE FOLLOWING: SUGAR, SOYBEAN OIL, HYDROGENATED SOYBEAN OIL, LEAVENING BAKING SODA, SODIUM ALUMINUM PHOSPHATE, SALT, BUTTERMILK, WHEAT GLUTEN, LOW-MOISTURE PART-SKIM MOZZARELLA CHEESE PASTEURIZED PART SKIM MILK, CHEESE CULTURE, SALT, CALCIUM CHLORIDE, ENZYME, CHEDDAR CHEESE MILK, CHEESE CULTURES, SALT, ENZYMES, WHEY POWDER A MILK DERIVATIVE, GUAR GUM, XANTHAN GUM, SOYBEAN OIL, GARLIC POWDER, DATEM, MALTED BARLEY FLOUR, DEXTROSE, ENZYME, ASCORBIC ACID, SODIUM PHOSPHATE, LACTIC ACID.), SHREDDED MOZZARELLA PROVOLONE CHEESE (LOW MOISTURE MOZZARELLA (PASTEURIZED MILK, CHEESE CULTURES, SALT, ENZYMES), UNSMOKED PROVOLONE (PASTEURIZED MILK, CHEESE CULTURES, SALT, ENZYMES), POWDERED CELLULOSE TO PREVENT CAKING, NATAMYCIN TO PROTECT FLAVOR OR WHOLE MILK MOZZARELLA CHEESE (PASTEURIZED MILK, CULTURES, SALT, ENZYMES), PROVOLONE CHEESE (PASTEURIZED MILK, CULTURES, SALT, ENZYMES), ANTICAKING AGENT AND NATAMYCIN (PRESERVATIVE).), WHOLE PLUM CANNED TOMATO (Ingredients VINE-RIPENED FRESH PLUM TOMATOES, TOMATO JUICE, FRESH BASIL LEAF, SALT AND, NATURALLY DERIVED CITRIC ACID.), SAUSAGE PIZZA TOPPING (PORK, WATER, SPICES, SALT, DEXTROSE, SODIUM PHOSPHATE, PAPRIKA, FLAVORING), CANADIAN BACON RINGS (PORK. CURED WITH: WATER, SALT, SUGAR, SODIUM LACTATE, SODIUM PHOSPHATE, SODIUM DIACETATE, SODIUM ASCORBATE, SODIUM NITRITE.), SLICED BEEF PORK PEPPERONI (BHA, BHT WITH CITRIC ACID ADDED TO HELP PROTECT FLAVOR.INGREDIENTS: PORK AND BEEF, SALT, CONTAINS 2% OR LESS OF WATER, DEXTROSE, SPICES, LACTIC ACID STARTER CULTURE, OLEORESIN OF PAPRIKA, GARLIC POWDER, SODIUM NITRITE, BHA, BHT, CITRIC ACID.), LIQUID MARGARINE (LIQUID AND HYDROGENATED SOYBEAN OIL, WATER, SALT, CONTAINS LESS THAN 2% OF VEGETABLE MONO & DIGLYCERIDES, SOY LECITHIN, SODIUM BENZOATE (A PRESERVATIVE), CITRIC ACID, NATURAL & ARTIFICIAL FLAVORS, CALCIUM DISODIUM EDTA ADDED TO PROTECT FLAVOR, BETA CAROTENE (COLOR), VITAMIN A PALMITATE ADDED. CONTAINS: SOY.), FRESH GARLIC, FRESH BASIL, KOSHER SALT (SALT, SODIUM SILICOALUMINATE - THIS SALT DOES NOT SUPPLY IODIDE, A NECESSARY NUTRIENT.), OLIVE OIL (75% canola, 25% olive oil), PIZZA STROBOLI SEASONING (Sea Salt, garlic, onion, chili flakes, parsley, tomato flakes and fennel seeds.), SUGAR, GROUND OREGANO, DRIED LEAF OREGANO"
+    },
+    {
+        "Title": "White Hamburger Bun",
+        "Serving Info": "1 Servings per containerServing Size1 BUN (60g)",
+        "Calories": "150",
+        "Nutrients": [
+            {
+                "Total Fat": "1.5g"
+            },
+            {
+                "Saturated Fat": "0g"
+            },
+            {
+                "TransFat": "NA"
+            },
+            {
+                "Cholesterol": "0mg"
+            },
+            {
+                "Sodium": "270mg"
+            },
+            {
+                "Total Carbohydrate": "30g"
+            },
+            {
+                "Dietary Fiber": "1g"
+            },
+            {
+                "Total Sugars": "4g"
+            },
+            {
+                "Added Sugars": "4g"
+            },
+            {
+                "Protein": "6g"
+            },
+            {
+                "Vit. D": "NA"
+            },
+            {
+                "Calcium": "52mg"
+            },
+            {
+                "Iron": "1.79mg"
+            }
+        ],
+        "Ingredients": "INGREDIENTS: UNBLEACHED ENRICHED FLOUR (WHEAT FLOUR, MALTED BARLEY FLOUR, NIACIN, REDUCED IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), WATER, HIGH FRUCTOSE CORN SYRUP, CONTAINS 2% OR LESS OF EACH OF THE FOLLOWING: YEAST, SOYBEAN OIL, SALT, WHEAT GLUTEN, DOUGH CONDITIONERS (CONTAINS ONE OR MORE OF THE FOLLOWING: SODIUM STEAROYL LACTYLATE, CALCIUM STEAROYL LACTYLATE, MONOGLYCERIDES, MONO- AND DIGLYCERIDES, DISTILLED MONOGLYCERIDES, CALCIUM PEROXIDE, CALCIUM IODATE, DATEM, ETHOXYLATED MONO- AND DIGLYCERIDES, ENZYMES, ASCORBIC ACID), SESAME FLOUR, CALCIUM PROPIONATE (TO RETARD SPOILAGE)CONTAINS: WHEAT, SESAME"
+    },
+    {
+        "Title": "DOMUNDOS ORIGINAL BBQ SAUCE",
+        "Serving Info": "1 Servings per containerServing Size1 OZ PORTION (28g)",
+        "Calories": "60",
+        "Nutrients": [
+            {
+                "Total Fat": "0g"
+            },
+            {
+                "Saturated Fat": "0g"
+            },
+            {
+                "TransFat": "0g"
+            },
+            {
+                "Cholesterol": "NA"
+            },
+            {
+                "Sodium": "140mg"
+            },
+            {
+                "Total Carbohydrate": "16g"
+            },
+            {
+                "Dietary Fiber": "0g"
+            },
+            {
+                "Total Sugars": "14g"
+            },
+            {
+                "Added Sugars": "0g"
+            },
+            {
+                "Protein": "0g"
+            },
+            {
+                "Vit. D": "NA"
+            },
+            {
+                "Calcium": "NA"
+            },
+            {
+                "Iron": "0mg"
+            }
+        ],
+        "Ingredients": "Ketchup (tomato puree, sugar, vinegar, seasonings), brown sugar, cider vinegar, brown mustard, orange juice, liquid smoke, ground mustard, garlic powder, paprika, chili powder, red cayenne pepper, cinnamon"
+    },
+    {
+        "Title": "SPICY BBQ SAUCE",
+        "Serving Info": "1 Servings per containerServing SizeOunce (28g)",
+        "Calories": "60",
+        "Nutrients": [
+            {
+                "Total Fat": "0g"
+            },
+            {
+                "Saturated Fat": "0g"
+            },
+            {
+                "TransFat": "0g"
+            },
+            {
+                "Cholesterol": "NA"
+            },
+            {
+                "Sodium": "140mg"
+            },
+            {
+                "Total Carbohydrate": "14g"
+            },
+            {
+                "Dietary Fiber": "0g"
+            },
+            {
+                "Total Sugars": "12g"
+            },
+            {
+                "Added Sugars": "NA"
+            },
+            {
+                "Protein": "0g"
+            },
+            {
+                "Vit. D": "NA"
+            },
+            {
+                "Calcium": "NA"
+            },
+            {
+                "Iron": "0.04mg"
+            }
+        ],
+        "Ingredients": "DOMUNOS BBQ SAUCE (Ketchup (tomato puree, sugar, vinegar, seasonings), brown sugar, cider vinegar, brown mustard, orange juice, liquid smoke, ground mustard, garlic powder, paprika, chili powder, red cayenne pepper, cinnamon), WATER, CHIPOTLE PEPPER (Chipotle Peppers, Tomato Puree, Onions, Vinegar, Canola Oil, Sugar, Salt, Paprika and Garlic.), CHILE GUAJILLO PEPPER, DRIED PASILLA CHILE, KOSHER SALT (SALT, SODIUM SILICOALUMINATE - THIS SALT DOES NOT SUPPLY IODIDE, A NECESSARY NUTRIENT.)"
+    },
+    {
+        "Title": "ROASTED GARLIC MASHED POTATOES",
+        "Serving Info": "1 Servings per containerServing SizePORTION (113g)",
+        "Calories": "130",
+        "Nutrients": [
+            {
+                "Total Fat": "4.5g"
+            },
+            {
+                "Saturated Fat": "3g"
+            },
+            {
+                "TransFat": "NA"
+            },
+            {
+                "Cholesterol": "10mg"
+            },
+            {
+                "Sodium": "310mg"
+            },
+            {
+                "Total Carbohydrate": "19g"
+            },
+            {
+                "Dietary Fiber": "2g"
+            },
+            {
+                "Total Sugars": "2g"
+            },
+            {
+                "Added Sugars": "NA"
+            },
+            {
+                "Protein": "3g"
+            },
+            {
+                "Vit. D": "0.1mcg"
+            },
+            {
+                "Calcium": "41mg"
+            },
+            {
+                "Iron": "0.96mg"
+            }
+        ],
+        "Ingredients": "YUKON GOLD POTATOES (POTATO), BUTTERMILK, WHOLE MILK (GRADE A FAT FREE (SKIM) MILK, VITAMIN A PALMITATE AND VITAMIN D3.), UNSALTED BUTTER (PASTEURIZED CREAM), FRESH GARLIC, KOSHER SALT (SALT, SODIUM SILICOALUMINATE - THIS SALT DOES NOT SUPPLY IODIDE, A NECESSARY NUTRIENT.), GROUND BLACK PEPPER, OLIVE OIL (75% canola, 25% olive oil)"
+    },
+    {
+        "Title": "Shells & Cheese",
+        "Serving Info": "1 Servings per containerServing Size#8 SCOOP (198g)",
+        "Calories": "700",
+        "Nutrients": [
+            {
+                "Total Fat": "28g"
+            },
+            {
+                "Saturated Fat": "14g"
+            },
+            {
+                "TransFat": "NA"
+            },
+            {
+                "Cholesterol": "70mg"
+            },
+            {
+                "Sodium": "910mg"
+            },
+            {
+                "Total Carbohydrate": "93g"
+            },
+            {
+                "Dietary Fiber": "4g"
+            },
+            {
+                "Total Sugars": "8g"
+            },
+            {
+                "Added Sugars": "NA"
+            },
+            {
+                "Protein": "25g"
+            },
+            {
+                "Vit. D": "NA"
+            },
+            {
+                "Calcium": "2mg"
+            },
+            {
+                "Iron": "3.68mg"
+            }
+        ],
+        "Ingredients": "SMALL SHELL MACARONI (SEMOLINA WHEAT, DURUM WHEAT FLOUR, VITAMIN B3 NIACIN, IRON FERROUS SULFATE, VITAMIN B1 THIAMINE MONONITRATE, VITAMIN B2, FOLIC ACID.), PREMADE MORT'S CHEESE SAUCE (MILK (PASTEURIZED REDUCED FAT MILK, VITAMIN A PALMITATE, VITAMIN D3), CHEESE FOOD, PASTEURIZED PROCESS AMERICAN, VITAMIN D FORTIFIED, CHEDDAR (MILK, CULTURES, SALT, ENZYMES, ANNATTO (COLOR)), HEAVY CREAM (HEAVY CREAM, SKIM MILK, CARRAGEENAN), BUTTER (CREAM, SALT), CORNSTARCH, KOSHER SALT, CHIPOTLESIN ADOBO (CHIPOTLE PEPPERS, VINEGAR, TOMATOES, ONIONS, SUGAR, IODIZED SALT, PAPRIKA, SOYBEAN OIL ANDSPICES), GRANULATED GARLIC, BLACK PEPPER, PAPRIKA.), WATER, OLIVE OIL (75% canola, 25% olive oil), KOSHER SALT (SALT, SODIUM SILICOALUMINATE - THIS SALT DOES NOT SUPPLY IODIDE, A NECESSARY NUTRIENT.)"
+    },
+    {
+        "Title": "SMOKED SPICY GREEN BEANS",
+        "Serving Info": "1 Servings per containerServing Size4 OZ PORTION (113g)",
+        "Calories": "45",
+        "Nutrients": [
+            {
+                "Total Fat": "0g"
+            },
+            {
+                "Saturated Fat": "0g"
+            },
+            {
+                "TransFat": "NA"
+            },
+            {
+                "Cholesterol": "0mg"
+            },
+            {
+                "Sodium": "550mg"
+            },
+            {
+                "Total Carbohydrate": "11g"
+            },
+            {
+                "Dietary Fiber": "3g"
+            },
+            {
+                "Total Sugars": "4g"
+            },
+            {
+                "Added Sugars": "NA"
+            },
+            {
+                "Protein": "0g"
+            },
+            {
+                "Vit. D": "NA"
+            },
+            {
+                "Calcium": "34mg"
+            },
+            {
+                "Iron": "0.08mg"
+            }
+        ],
+        "Ingredients": "WHOLE GREEN BEANS - THAWED (Green Beans), WATER, FRESH GARLIC - CHOPPED, SUGAR, CIDER VINEGAR (APPLE CIDER VINEGAR, (DILUTED TO 5% ACIDITY).), KOSHER SALT (SALT, SODIUM SILICOALUMINATE - THIS SALT DOES NOT SUPPLY IODIDE, A NECESSARY NUTRIENT.), VEGETABLE BASE (SAUTEED VEGETABLE PUREE MIX CARROTS, ONIONS, CELERY, SALT, SUGAR, MALTODEXTRIN, CORN OIL, 2 OR LESS OF YEAST EXTRACT,WATER, POTATO STARCH, XANTHAN GUM, NATURAL FLAVORS, CARROT JUICE CONCENTRATE.), CRUSHED RED PEPPER (CRUSHED RED PEPPERS)"
+    },
+    {
+        "Title": "20 oz Pepsi Fountain Beverage",
+        "Serving Info": "1 Servings per containerServing Size22 OZ PORTION (641g)",
+        "Calories": "45",
+        "Nutrients": [
+            {
+                "Total Fat": "NA"
+            },
+            {
+                "Saturated Fat": "NA"
+            },
+            {
+                "TransFat": "NA"
+            },
+            {
+                "Cholesterol": "NA"
+            },
+            {
+                "Sodium": "40mg"
+            },
+            {
+                "Total Carbohydrate": "12g"
+            },
+            {
+                "Dietary Fiber": "NA"
+            },
+            {
+                "Total Sugars": "10g"
+            },
+            {
+                "Added Sugars": "8g"
+            },
+            {
+                "Protein": "NA"
+            },
+            {
+                "Vit. D": "NA"
+            },
+            {
+                "Calcium": "17mg"
+            },
+            {
+                "Iron": "0.01mg"
+            }
+        ],
+        "Ingredients": "CARBONATED WATER, DOLE OLD FASHIONED LEMONADE (WATER, HIGH FRUCTOSE CORN SYRUP, LEMON JUICE CONCENTRATE, SODIUM CITRATE, CITRIC ACID, GUM ARABIC, SODIUM BENZOATE (PRESERVES FRESHNESS), GLYCEROL ESTER OF ROSIN, NATURAL FLAVOR, POTASSIUM SORBATE (PRESERVES FRESHNESS), CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR), YELLOW 5), DR PEPPER POST MIX (High Fructose Corn Syrup, Water, Caramel Color, Phosphoric Acid, Caffeine, Sodium Benzoate (Preservative), Natural and Artificial Flavors, Dimethylpolysiloxane), RASPBERRY ICED TEA (WATER, HIGH FRUCTOSE CORN SYRUP, CITRIC ACID, NATURAL FLAVOR, BLACK TEA POWDER, CARAMEL COLOR, CITRUS PECTIN, SODIUM BENZOATE (PRESERVES FRESHNESS), POTASSIUM SORBATE (PRESERVES FRESHNESS), ACESULFAME POTASSIUM, SUCRALOSE, RED 40), PEPSI POST MIX (CARBONATED WATER, HIGH FRUCTOSE CORN SYRUP, CARAMEL COLOR, SUGAR, PHOSPHORIC ACID, CAFFEINE, CITRIC ACID, NATURAL FLAVOR), DIET DR PEPPER POST MIX (Water, Caramel Color, Phosphoric Acid, Aspartame, Sodium Citrate, Sodium Benzoate (Preservative), Caffeine, Acesulfame Potassium, Sucralose, Natural and Artificial Flavors, Dimethylpolysiloxane), DIET PEPSI POST MIX (CARBONATED WATER, CARAMEL COLOR, PHOSPHORIC ACID, SODIUM CITRATE, SUCRALOSE, POTASSIUM BENZOATE (PRESERVES FRESHNESS), ACESULFAME POTASSIUM, CAFFEINE, NATURAL FLAVOR, CITRIC ACID, CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR)), FRUIT PUNCH GATORADE, MOUNTAIN DEW POST MIX (CARBONATED WATER, HIGH FRUCTOSE CORN SYRUP, CONCENTRATED ORANGE JUICE, CITRIC ACID, NATURAL FLAVORS, SODIUM BENZOATE (PRESERVES FRESHNESS), CAFFEINE, SODIUM CITRATE, GUM ARABIC, ERYTHORBIC ACID (PRESERVES FRESHNESS), CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR), YELLOW 5.), ROOTBEER POST MIX (CARBONATED WATER, SUGAR, CARAMEL COLOR, SODIUM BENZOATE (PRESERVES FRESHNESS), NATURAL AND ARTIFICIAL FLAVOR, CITRIC ACID, PHOSPHORIC ACID, CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR), QUILLAIA EXTRACT), ORANGE CRUSH POST MIX, STARRY POST MIX (CARBONATED WATER, HIGH FRUCTOSE CORN SYRUP, CITRIC ACID, NATURAL FLAVOR, POTASSIUM BENZOATE (PRESERVES FRESHNESS), POTASSIUM CITRATE, CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR)), WILD CHERRY PEPSI (CARBONATED WATER, HIGH FRUCTOSE CORN SYRUP, CARAMEL COLOR, SUGAR, PHOSPHORIC ACID, NATURAL FLAVORS, CAFFEINE, CITRIC ACID), APPLE JUICE POST MIX (Apple Juice Concentrate, Filtered Water, Ascorbic Acid (Vitamin C), Malic Acid, Sodium Benzoate (preserves freshness), and Potassium Sorbate (preserves freshness).), DIET MOUNTAIN DEW POST MIX (CARBONATED WATER, CONCENTRATED ORANGE JUICE, CITRIC ACID, NATURAL FLAVOR, CITRUS PECTIN, ASPARTAME, POTASSIUM BENZOATE (PRESERVES FRESHNESS), POTASSIUM CITRATE, CAFFEINE, POTASSIUM SORBATE (PRESERVES FRESHNESS), ACESULFAME POTASSIUM, SODIUM CITRATE, SODIUM SACCHARIN, GUM ARABIC, SODIUM BENZOATE (PRESERVES FRESHNESS), SALT, CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR), YELLOW 5), UNSWEETENED TEA"
+    },
+    {
+        "Title": "SMOKED TURKEY",
+        "Serving Info": "1 Servings per containerServing SizePORTION (113g)",
+        "Calories": "150",
+        "Nutrients": [
+            {
+                "Total Fat": "6g"
+            },
+            {
+                "Saturated Fat": "1.5g"
+            },
+            {
+                "TransFat": "NA"
+            },
+            {
+                "Cholesterol": "50mg"
+            },
+            {
+                "Sodium": "630mg"
+            },
+            {
+                "Total Carbohydrate": "5g"
+            },
+            {
+                "Dietary Fiber": "0g"
+            },
+            {
+                "Total Sugars": "4g"
+            },
+            {
+                "Added Sugars": "1g"
+            },
+            {
+                "Protein": "19g"
+            },
+            {
+                "Vit. D": "NA"
+            },
+            {
+                "Calcium": "3mg"
+            },
+            {
+                "Iron": "0.05mg"
+            }
+        ],
+        "Ingredients": "ROAST SKIN ON TURKEY BREAST (GC TKY BR RST S/O 15 GLD FOIL: INGREDIENTS: TURKEY BREAST CONTAINING UP TO 15 OF A SOLUTION OF TURKEY BROTH, SALT, SUGAR, SODIUM PHOSPHATE, PEPPER.), BROWN SUGAR (SUGAR, MOLASSES), HONEY (HONEY), SUGAR, LEMON JUICE (Filtered water, lemon juice concentrate, sodium bisulfite (preservative), sodium benzoate (preservative), lemon oil.), FRESH THYME, ONION SALT (SALT, DEHYDRATED ONION, LESS THAN 2% SILICON DIOXIDE TO PREVENT CAKING), GRANULATED GARLIC (DEHYDRATED GARLIC), CAYENNE PEPPER (CRUSHED RED PEPPERS), GROUND BLACK PEPPER, FROZEN OREGANO (Oregano)"
+    },
+    {
+        "Title": "JERK MARINADE",
+        "Serving Info": "1 Servings per containerServing SizeOunce (28g)",
+        "Calories": "30",
+        "Nutrients": [
+            {
+                "Total Fat": "2.5g"
+            },
+            {
+                "Saturated Fat": "0g"
+            },
+            {
+                "TransFat": "NA"
+            },
+            {
+                "Cholesterol": "0mg"
+            },
+            {
+                "Sodium": "470mg"
+            },
+            {
+                "Total Carbohydrate": "2g"
+            },
+            {
+                "Dietary Fiber": "1g"
+            },
+            {
+                "Total Sugars": "1g"
+            },
+            {
+                "Added Sugars": "NA"
+            },
+            {
+                "Protein": "1g"
+            },
+            {
+                "Vit. D": "NA"
+            },
+            {
+                "Calcium": "11mg"
+            },
+            {
+                "Iron": "0.19mg"
+            }
+        ],
+        "Ingredients": "FRESH JALAPENO PEPPERS (Habanero Peppers), GLUTEN FREE TAMARI SOY SAUCE (WATER,SOYBEANS,SALT,SUGAR), GREEN ONIONS (GREEN ONION), WHITE VINEGAR (WHITE DISTILLED VINEGAR (DILUTED WITH WATER TO 5% ACIDITY).), OLIVE OIL (75% canola, 25% olive oil), GROUND ALLSPICE, KOSHER SALT (SALT, SODIUM SILICOALUMINATE - THIS SALT DOES NOT SUPPLY IODIDE, A NECESSARY NUTRIENT.), FROZEN THYME, FRESH GARLIC, GROUND NUTMEG, CINNAMON"
+    },
+    {
+        "Title": "Barbeque Baked Beans",
+        "Serving Info": "1 Servings per containerServing Size4 OZ PORTION (113g)",
+        "Calories": "120",
+        "Nutrients": [
+            {
+                "Total Fat": "0g"
+            },
+            {
+                "Saturated Fat": "0g"
+            },
+            {
+                "TransFat": "0g"
+            },
+            {
+                "Cholesterol": "NA"
+            },
+            {
+                "Sodium": "410mg"
+            },
+            {
+                "Total Carbohydrate": "29g"
+            },
+            {
+                "Dietary Fiber": "4g"
+            },
+            {
+                "Total Sugars": "15g"
+            },
+            {
+                "Added Sugars": "6g"
+            },
+            {
+                "Protein": "5g"
+            },
+            {
+                "Vit. D": "NA"
+            },
+            {
+                "Calcium": "34mg"
+            },
+            {
+                "Iron": "1.18mg"
+            }
+        ],
+        "Ingredients": "VEGETARIAN BAKED BEANS (WHITE BEANS, WATER, SUGAR, HIGH FRUCTOSE CORN SYRUP, TOMATO PASTE, SALT, OLEORESIN PAPRIKA, DEXTROSE, ONION POWDER, GARLIC POWDER, AND NATURAL FLAVORINGS.), DOMUNOS BBQ SAUCE (Ketchup (tomato puree, sugar, vinegar, seasonings), brown sugar, cider vinegar, brown mustard, orange juice, liquid smoke, ground mustard, garlic powder, paprika, chili powder, red cayenne pepper, cinnamon)"
+    },
+    {
+        "Title": "Smoked Chicken Wings",
+        "Serving Info": "1 Servings per containerServing Size5 WINGS (111g)",
+        "Calories": "280",
+        "Nutrients": [
+            {
+                "Total Fat": "18g"
+            },
+            {
+                "Saturated Fat": "5g"
+            },
+            {
+                "TransFat": "0g"
+            },
+            {
+                "Cholesterol": "155mg"
+            },
+            {
+                "Sodium": "180mg"
+            },
+            {
+                "Total Carbohydrate": "NA"
+            },
+            {
+                "Dietary Fiber": "0g"
+            },
+            {
+                "Total Sugars": "NA"
+            },
+            {
+                "Added Sugars": "NA"
+            },
+            {
+                "Protein": "26g"
+            },
+            {
+                "Vit. D": "0.2mcg"
+            },
+            {
+                "Calcium": "20mg"
+            },
+            {
+                "Iron": "0.92mg"
+            }
+        ],
+        "Ingredients": "RAW UNBREADED CHICKEN WINGS (CHICKEN WINGS), BFC DO MUNDOS SPICE RUB (Brown sugar, salt, granulated garlic, chili powder, spices.  Contains no MSG.)"
+    }
+]
