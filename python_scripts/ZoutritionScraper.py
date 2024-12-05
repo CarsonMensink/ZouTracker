@@ -11,6 +11,7 @@ import re
 class ZoutritionScraper():
 
     def __init__(self, index_array):
+        self.DEBUG = False
         self.index_array = index_array
         self.current_file_name = ""
         self.current_file_building = ""
@@ -36,6 +37,7 @@ class ZoutritionScraper():
         status_function_map = {
             "child_restaurants": self.child_restaurant_manager,
             "menu_tables": self.menu_tables_manager,
+            "none": self.menu_tables_manager,
             "menu": self.menu_manager,
         }
         manager_to_call = status_function_map.get(self.page_status)
@@ -75,24 +77,37 @@ class ZoutritionScraper():
         self.add_nutrition_info_to_json() # gets executed after everything rewinds
 
     def child_restaurant_manager(self):
+        if self.DEBUG:
+            print("***GOT TO CHILD MANAGER***")
+    
         self.get_child_resturant_options()
         for i in range(self.child_resturant_buttons_count): # looping to click every child button
             self.navigate_to_child_resturant(i)
             self.status_update()
             if i < self.child_resturant_buttons_count - 1:
                 self.get_back_button()
+                if self.DEBUG:
+                    print("***GOT BACK BUTTON***") 
                 self.click_back_button()
+                if self.DEBUG:
+                    print("***CLICKED BACK BUTTON***")                 
                 self.check_page_status()
     
     def menu_tables_manager(self):
-        self.get_menu_tables_options()
-        self.seen_set_dictionary = {}
-        for i in range(self.menu_table_buttons_count): # clicking every menu table button
-            self.navigate_to_menu_label(i)
-            self.status_update()
-            self.get_back_button()
-            self.click_back_button()
-            self.check_page_status()
+        if self.DEBUG:
+            print("***GOT TO MENU TABLES MANAGER***") 
+
+        self.get_menu_tables_options()  
+        if self.menu_table_buttons_count == 0:
+            return
+        else:
+            self.seen_set_dictionary = {}
+            for i in range(self.menu_table_buttons_count): # clicking every menu table button
+                self.navigate_to_menu_label(i)
+                self.status_update()
+                self.get_back_button()
+                self.click_back_button()
+                self.check_page_status()
 
     def menu_manager(self):
         self.add_file_to_data_dict() # file path is fully built
@@ -110,8 +125,6 @@ class ZoutritionScraper():
                 self.seen_set_dictionary[page_header_text].add(item)
                 self.scrape_menu_item(i)
                 self.filter_nutrition_info()
-                
-
 
     ####################
     ##### NAVIGATE #####
@@ -173,6 +186,8 @@ class ZoutritionScraper():
             return
         # nothing was found
         self.page_status = "none"
+        if self.DEBUG:
+            print(f"***{self.page_status}***")
 
     def get_menu_tables_options(self):
         self.page.wait_for_load_state('networkidle')
@@ -191,7 +206,7 @@ class ZoutritionScraper():
                 self.page.locator("#btn_Back1").wait_for(state="attached")
                 self.back_button = self.page.locator('#btn_Back1')
                 self.current_file_name = self.current_file_name.replace(self.current_file_building, "")
-            elif self.page_status == "menu_tables":
+            elif self.page_status == "menu_tables" or self.page_status == "none":
                 self.page.locator("#btn_BackmenuList1").wait_for(state="attached")
                 self.back_button = self.page.locator('#btn_BackmenuList1')
                 self.current_file_name = self.current_file_name.replace(self.current_file_building, "")
@@ -257,6 +272,13 @@ class ZoutritionScraper():
         string = re.sub(r'\"', ' ', string)
         return string
 
+    def clean_added_sugars(self, string):
+        if "NA" in string or not string.strip():
+            return "N/A"
+        
+        match = re.search(r'(\d+\.?\d*)\s*g', string)
+        return f"{match.group(1)}g" if match else "N/A"
+    
     def filter_nutrition_info(self):
         title = self.title.get_text().title() if self.title else "N/A"
         serving_info = self.serving_size_information.get_text() if self.serving_size_information else "N/A"
@@ -265,22 +287,19 @@ class ZoutritionScraper():
         calories = self.calories_per_serving.get_text() if self.calories_per_serving else "N/A"
 
         # Use "N/A" as the default for each nutrient if the corresponding value is missing
-        nutrients = {
-            "Total Fat": self.values_spans[0].get_text(strip=True) if self.values_spans[0] else "N/A",
-            "Saturated Fat": self.values_spans[1].get_text(strip=True) if self.values_spans[1] else "N/A",
-            "Trans Fat": self.values_spans[2].get_text(strip=True) if self.values_spans[2] else "N/A",
-            "Cholesterol": self.values_spans[3].get_text(strip=True) if self.values_spans[3] else "N/A",
-            "Sodium": self.values_spans[4].get_text(strip=True) if self.values_spans[4] else "N/A",
-            "Total Carbohydrates": self.values_spans[5].get_text(strip=True) if self.values_spans[5] else "N/A",
-            "Dietary Fiber": self.values_spans[6].get_text(strip=True) if self.values_spans[6] else "N/A",
-            "Total Sugars": self.values_spans[7].get_text(strip=True) if self.values_spans[7] else "N/A",
-            "Added Sugars": self.values_spans[8].get_text(strip=True) if self.values_spans[8] else "N/A",
-            "Protein": self.values_spans[9].get_text(strip=True) if self.values_spans[9] else "N/A",
-            "Vit. D": self.values_spans[10].get_text(strip=True) if self.values_spans[10] else "N/A",
-            "Calcium": self.values_spans[11].get_text(strip=True) if self.values_spans[11] else "N/A",
-            "Iron": self.values_spans[12].get_text(strip=True) if self.values_spans[12] else "N/A",
-            "Potas.": self.values_spans[13].get_text(strip=True) if self.values_spans[13] else "N/A"
-        }
+        nutrient_names = [
+        "Total Fat", "Saturated Fat", "Trans Fat", "Cholesterol", "Sodium",
+        "Total Carbohydrates", "Dietary Fiber", "Total Sugars", "Added Sugars",
+        "Protein", "Vit. D", "Calcium", "Iron", "Potas."
+        ]
+        nutrients = {name: "N/A" for name in nutrient_names}
+        for i, name in enumerate(nutrient_names):
+            if i < len(self.values_spans):
+                value = self.values_spans[i].get_text(strip=True)
+                if name == "Added Sugars":
+                    nutrients[name] = self.clean_added_sugars(value)
+                else:
+                    nutrients[name] = value
 
         ingredients = self.ingredients_information.get_text(strip=True) if self.ingredients_information else "N/A"
         if self.ingredients_information:
@@ -326,15 +345,16 @@ class ZoutritionScraper():
         self.full_folder_path = os.path.join(parent_folder, self.folder_name)
         if not os.path.exists(self.full_folder_path):
             os.makedirs(self.full_folder_path)
-            print(f"Folder '{self.full_folder_path}' created.")
+            print(f"***Folder '{self.full_folder_path}' created.***")
         else:
-            print(f"Folder '{self.full_folder_path}' aleady exists.") 
+            print(f"***Folder '{self.full_folder_path}' aleady exists.***") 
 
         self.data_dict = {}
     
     def add_file_to_data_dict(self):
         if self.current_file_name not in self.data_dict:
             self.data_dict[self.current_file_name] = []
+            print(f"***Moving to {self.current_file_name}...***")
 
     def add_nutrition_info_to_json(self):
         for key, value in self.data_dict.items():
@@ -342,3 +362,9 @@ class ZoutritionScraper():
 
             with open(file_name, 'w') as json_file:
                 json.dump(value, json_file, indent=4)
+                print(f"***Dumping to {file_name}***")
+
+# FUTURE FEATURES
+
+# FIND MISSING ITEMS
+# PROGRESS BAR

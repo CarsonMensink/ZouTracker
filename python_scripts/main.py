@@ -1,4 +1,4 @@
-from ZuotritionScraper import ZoutritionScraper
+from ZoutritionScraper import ZoutritionScraper
 
 restaurants = [
     "Baja Grill",
