@@ -1,0 +1,71 @@
+[
+    {
+        "Title": "Grilled Eggs",
+        "Serving Info": "2 EGGS (115g)",
+        "Calories": "240",
+        "Nutrients": {
+            "Total Fat": "19g",
+            "Saturated Fat": "5g",
+            "Trans Fat": "0g",
+            "Cholesterol": "445mg",
+            "Sodium": "260mg",
+            "Total Carbohydrates": "< 1g",
+            "Dietary Fiber": "0g",
+            "Total Sugars": "0g",
+            "Added Sugars": "N/A",
+            "Protein": "15g",
+            "Vit. D": "2.4mcg",
+            "Calcium": "69mg",
+            "Iron": "2.10mg",
+            "Potas.": "170mg"
+        },
+        "Ingredients": "FRESH SHELL EGGS, LIQUID MARGARINE (LIQUID AND HYDROGENATED SOYBEAN OIL, WATER, SALT, CONTAINS LESS THAN 2% OF VEGETABLE MONO & DIGLYCERIDES, SOY LECITHIN, SODIUM BENZOATE (A PRESERVATIVE), CITRIC ACID, NATURAL & ARTIFICIAL FLAVORS, CALCIUM DISODIUM EDTA ADDED TO PROTECT FLAVOR, BETA CAROTENE (COLOR), VITAMIN A PALMITATE ADDED. CONTAINS: SOY.)",
+        "Allergens": "Eggs, Soy"
+    },
+    {
+        "Title": "Whole Egg Omelet",
+        "Serving Info": "1 OMELET (98g)",
+        "Calories": "130",
+        "Nutrients": {
+            "Total Fat": "9g",
+            "Saturated Fat": "2.5g",
+            "Trans Fat": "0g",
+            "Cholesterol": "285mg",
+            "Sodium": "270mg",
+            "Total Carbohydrates": "< 1g",
+            "Dietary Fiber": "0g",
+            "Total Sugars": "0g",
+            "Added Sugars": "N/A",
+            "Protein": "10g",
+            "Vit. D": "1.5mcg",
+            "Calcium": "40mg",
+            "Iron": "1.39mg",
+            "Potas.": "105mg"
+        },
+        "Ingredients": "20 LB EGG BLEND (WHOLE EGGS, 19.0% WATER, CONTAINS LESS THAN 2% OF THE FOLLOWING: SALT, XANTHAN GUM, CITRIC ACID, ANNATTO (COLOR), NATURAL BUTTER FLAVOR (SUNFLOWER OIL, NATURAL FLAVORS, AND MEDIUM CHAIN TRIGLYCERIDES)), LIQUID MARGARINE (LIQUID AND HYDROGENATED SOYBEAN OIL, WATER, SALT, CONTAINS LESS THAN 2% OF VEGETABLE MONO & DIGLYCERIDES, SOY LECITHIN, SODIUM BENZOATE (A PRESERVATIVE), CITRIC ACID, NATURAL & ARTIFICIAL FLAVORS, CALCIUM DISODIUM EDTA ADDED TO PROTECT FLAVOR, BETA CAROTENE (COLOR), VITAMIN A PALMITATE ADDED. CONTAINS: SOY.)",
+        "Allergens": "Eggs, Soy"
+    },
+    {
+        "Title": "Egg White Omelet",
+        "Serving Info": "1 OMELET (98g)",
+        "Calories": "70",
+        "Nutrients": {
+            "Total Fat": "2g",
+            "Saturated Fat": "0g",
+            "Trans Fat": "NA",
+            "Cholesterol": "0mg",
+            "Sodium": "180mg",
+            "Total Carbohydrates": "< 1g",
+            "Dietary Fiber": "0g",
+            "Total Sugars": "< 1g",
+            "Added Sugars": "N/A",
+            "Protein": "10g",
+            "Vit. D": "NA",
+            "Calcium": "7mg",
+            "Iron": "0.08mg",
+            "Potas.": "160mg"
+        },
+        "Ingredients": "FROZEN EGG WHITES (EGG WHITES, GUAR GUM AND TRIETHYL CITRATE ADDED AS WHIPPING AIDS.), LIQUID MARGARINE (LIQUID AND HYDROGENATED SOYBEAN OIL, WATER, SALT, CONTAINS LESS THAN 2% OF VEGETABLE MONO & DIGLYCERIDES, SOY LECITHIN, SODIUM BENZOATE (A PRESERVATIVE), CITRIC ACID, NATURAL & ARTIFICIAL FLAVORS, CALCIUM DISODIUM EDTA ADDED TO PROTECT FLAVOR, BETA CAROTENE (COLOR), VITAMIN A PALMITATE ADDED. CONTAINS: SOY.)",
+        "Allergens": "Eggs, Soy"
+    }
+]
